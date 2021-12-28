@@ -1,4 +1,4 @@
-### Olá! Eu sou o Wellington Marques 👋
+### Olá! Eu sou o Wellington Marques, Sou apaixonado por inovação e movido a desafios 🚀
 
 
 
