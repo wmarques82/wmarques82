@@ -1,12 +1,13 @@
 ### Olá! Eu sou o Wellington Marques, Sou apaixonado por inovação e movido a desafios 🚀
 
-
+##
 
 <div align="start">
   <a href="https://github.com/wmarques82">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wmarques82&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmarques82&layout=compact&langs_count=7&theme=dark"/>
 </div>
+   <img align="right" width="25%" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="image"/>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
